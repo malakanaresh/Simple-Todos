@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.todo-list {
+  display: flex;
+  flex-direction: row;
+}
+button {
+  align-items: right;
+  color: #ff0b37;
+  border-style: solid;
+  border-color: #ff0b37;
+  background-color: #ffffff;
+  height: 20px;
+}
